@@ -1,0 +1,3 @@
+please configure the api for the week by
+
+removing the comment in getters.php line 18
